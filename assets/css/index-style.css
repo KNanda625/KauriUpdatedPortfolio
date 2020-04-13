@@ -1,0 +1,87 @@
+ body {
+    background-image: url('../images/nice_snow.png');
+}
+
+#heading {
+  border-bottom: 2px solid #777777;
+}
+
+
+/* Navigation */
+a {
+    color:#777777;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 200%;
+    font-weight:bold; 
+  }
+  
+a:hover {
+    background-color: #006699;
+    color: white;
+  } 
+
+
+
+/* Kauri Nanda header*/
+h1 {
+  color: #006699;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 350%;
+  font-weight:bold; 
+}
+
+
+
+/* Bio Section */
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+  padding: 2%;
+  
+}
+
+
+
+/* About Me header */
+h2 { 
+  color: #006699;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 250%;
+  font-weight:bold; 
+}
+
+hr#line1 {
+  border: 0.5px solid #777777;
+}
+
+
+img {
+  float: left;
+  padding-right: 2%;
+  padding-top: 1%;
+}
+
+p {
+  color: #404040;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight:bold; 
+  font-size: 175%;
+}
+
+
+ #footer {
+	clear: both;
+  padding: 15px;
+	background-color: #ebebe0;
+	color: #777777;
+  text-align: center;
+  border-top: 2px solid #777777;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}  

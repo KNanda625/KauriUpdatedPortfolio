@@ -1,0 +1,93 @@
+body {
+  background-image: url('../images/nice_snow.png');
+}
+
+#heading {
+  border-bottom: 2px solid #777777;
+}
+
+
+
+/* Navigation */
+a {
+  color:#777777;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 200%;
+  font-weight:bold; 
+}
+
+a:hover {
+  background-color: #006699;
+  color: white;
+} 
+
+
+
+/* Kauri Nanda header*/
+h1 {
+color: #006699;
+font-family: 'Shadows Into Light', cursive;
+font-size: 350%;
+font-weight:bold; 
+}
+
+
+
+/* Container with card */
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15%;
+  padding: 2%;
+}
+
+
+
+/* Contact header */
+h2 { 
+  color: #006699;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 250%;
+  font-weight:bold; 
+}
+
+hr {
+  border: 0.5px solid #777777;
+}
+
+ul {
+  color: #777777;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight:bold;   
+  font-size: 175%;
+}
+
+.contact-link {
+  color: cadetblue;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 100%;
+}
+
+.contact-link:hover {
+  color: lightblue;
+  background-color: lightslategray;
+
+}
+
+
+
+  #footer {
+    clear: both;
+    padding: 15px;
+    background-color: #ebebe0;
+    color: #777777;
+    text-align: center;
+    border-top: 2px solid #777777;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
