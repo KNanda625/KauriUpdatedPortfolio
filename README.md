@@ -2,7 +2,7 @@
 
 This is an updated online portfolio featuring functional applications and contact information.
 
-
+https://knanda625.github.io/KauriUpdatedPortfolio/
 
 
 ### Utilize With:
